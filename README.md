@@ -1,7 +1,7 @@
 # League-of-Legends-API-stats-analysis
 Analysis of combinations of champions to maximise chances of winning
 
-Step 1. Use collectIDs-final script to get the IDs of the highest rated players in the game.
+Step 1. Use collectIDs script to get the IDs of the highest rated players in the game.
 
 Step 2. Use SummID to AccID to convert the Summoner ID to Account ID necessary to collect further data.
 
