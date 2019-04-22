@@ -16,3 +16,5 @@ Step 5. Use gameIDs to match data.py to end up with the final data which is [Tea
 
 
 Step 6. TO DO - Currently getting rate limited with step 5. 2% complete after ~30 mins on 22/04/2019. Once this is complete, the analysis of which Champions are statistically better/worse with each champion can be conducted.
+
+Notes for future: set up config file with API key and import it each time from there.
