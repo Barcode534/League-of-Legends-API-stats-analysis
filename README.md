@@ -3,6 +3,8 @@ Analysis of combinations of champions to maximise chances of winning
 
 The goal of the project is to collect match data of the highest rated players in the game, see which champions they pick, find mean winrate of each champion, then see how these winrates change when partnered with certain champions. The result should be that when you are choosing your champion in the pre-game lobby, you can see some of your teams picks, some of the opponents picks, and from this information you can make a better decision than just random.
 
+Product demonstration: https://www.youtube.com/watch?v=Imy_IyydMMY&t=7s
+
 Step 1. Use collectIDs script to get the IDs of the highest rated players in the game.
 
 Step 2. Use SummID to AccID to convert the Summoner ID to Account ID necessary to collect further data.
