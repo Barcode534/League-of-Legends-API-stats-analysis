@@ -15,6 +15,10 @@ Step 5. Use gameIDs to match data.py to end up with the final data which is [Tea
 
 
 
-Step 6. TO DO - Currently getting rate limited with step 5. 2% complete after ~30 mins on 22/04/2019. Once this is complete, the analysis of which Champions are statistically better/worse with each champion can be conducted.
+Step 6. convert-functions.py and champID-to-name are used to convert the numeric ID of each champion to their Name, and back.
 
-Notes for future: set up config file with API key and import it each time from there.
+Step 7. Use Data-analysis.py while entering a champion name that will be on your team to create a new winrate file. The winrate files contains the dictionaries of data that you can check for statistics.
+
+Step 8. Use best-champs.py to find the highest winrate champions when you know you will have 'X' champion on your team.
+
+Notes for future: set up config file with API key and import it each time from there. Do an enemy team has 'X', what do I pick solution.
